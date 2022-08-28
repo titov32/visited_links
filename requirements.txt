@@ -1,0 +1,6 @@
+fastapi~=0.80.0
+pytest
+redis~=4.3.4
+uvicorn
+requests
+pydantic~=1.9.2
